@@ -19,6 +19,8 @@ export default {
   "/Game/Systems/Building/Placeables/BP_PL_Altar_JhebbalSag.BP_PL_Altar_JhebbalSag_C": "Bower of JhebbalSag",
   "/Game/Systems/Building/Placeables/BP_PL_Altar_JhebbalSag_T2.BP_PL_Altar_JhebbalSag_T2_C": "Retreat of JhebbalSag",
   "/Game/Systems/Building/Placeables/BP_PL_Altar_JhebbalSag_T3.BP_PL_Altar_JhebbalSag_T3_C": "Grove of JhebbalSag",
+  "/Game/Mods/Exiled_lands_improved/Combat_religion/Xotli/Religion/BP_PL_Altar_Xotli.BP_PL_Altar_Xotli_C" : "Altar of Xotli",
+  "/Game/Mods/Exiled_lands_improved/Combat_religion/Xotli/Religion/BP_PL_Altar_Xotli_enchantingTable.BP_PL_Altar_Xotli_enchantingTable_C" : "Xotli Enchanting Table",
 
   // Animal Pen
   "/Game/Systems/Building/Placeables/BP_PL_Crafting_Station_AnimalPen_Tier_1.BP_PL_Crafting_Station_AnimalPen_Tier_1_C": "Animal Pen",
